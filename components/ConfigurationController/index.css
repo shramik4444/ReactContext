@@ -1,0 +1,12 @@
+/* Write your CSS here */
+/* Write your CSS here */
+.bg-cont {
+  background-color: #475569;
+  background-size: cover;
+  padding: 20px;
+}
+.checkboxcont {
+  display: flex;
+  flex-direction: column;
+  color: white;
+}
